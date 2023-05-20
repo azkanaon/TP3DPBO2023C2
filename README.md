@@ -50,5 +50,46 @@ Halaman Partai:
 
 
 ## Dokumentasi
-Untuk dokumentasi sudah ada pada folder screenshot, sudah lengkap beserta keterangannya
+1. Search Anggota
+![Animation](https://github.com/azkanaon/TP3DPBO2023C2/assets/90915678/648ddc1b-cad6-40e5-8bd0-bc45e9476f99)
+2. Filter Anggota
+![Animation](https://github.com/azkanaon/TP3DPBO2023C2/assets/90915678/ad320de6-c0c7-4fdb-9c65-25aa7f51b583)
+3. Add Anggota
+![add anggota](https://github.com/azkanaon/TP3DPBO2023C2/assets/90915678/63ccd693-8e29-4f0c-8251-224d2d4e77f4)
+4. Tampil Detail Anggota
+![detail anggota](https://github.com/azkanaon/TP3DPBO2023C2/assets/90915678/9ad7a628-513d-4035-a801-aa4d170c39c0)
+5. Edit Anggota
+![edit anggota](https://github.com/azkanaon/TP3DPBO2023C2/assets/90915678/54bcf9a5-b900-45ba-ae6b-a44f884943a8)
+6. Delete Anggota
+![delete anggota](https://github.com/azkanaon/TP3DPBO2023C2/assets/90915678/aa01cdde-a3c1-4c20-afbe-ab16c7eb66aa)
+7. Search Jabatan
+![search jabatan](https://github.com/azkanaon/TP3DPBO2023C2/assets/90915678/3bbb6e90-4068-4289-b30d-12da29e06dbf)
+8. Filter Jabatan
+![filter jabatan](https://github.com/azkanaon/TP3DPBO2023C2/assets/90915678/d2c7faeb-52ea-40ec-986c-1ebc3fe29d97)
+9. Add Jabatan
+![add jabatan](https://github.com/azkanaon/TP3DPBO2023C2/assets/90915678/0baea858-8977-46a1-a6a5-15322cd161a3)
+10. Edit jabatan
+![edit jabatan](https://github.com/azkanaon/TP3DPBO2023C2/assets/90915678/211583b1-fe8c-4f57-97d6-a7c9ed4f8969)
+11. Delete jabatan
+![delete jabatan](https://github.com/azkanaon/TP3DPBO2023C2/assets/90915678/dd775712-dbbe-4e97-b359-50f5f7bb09b7)
+12. FIlter Partai
+![filter partai](https://github.com/azkanaon/TP3DPBO2023C2/assets/90915678/d92ab4dd-e56b-4b0b-a2b0-ea3bf28efce5)
+13. Search Partai
+![search partai](https://github.com/azkanaon/TP3DPBO2023C2/assets/90915678/87fa09bb-1417-453d-be40-13ab9251db82)
+14. Add Partai
+![add partai](https://github.com/azkanaon/TP3DPBO2023C2/assets/90915678/f4a926fa-56f1-432f-85d2-6dcf92727233)
+15. Edit Partai
+![edit partai](https://github.com/azkanaon/TP3DPBO2023C2/assets/90915678/f13b2eba-43e2-4be8-a82c-7ba2b23c8824)
+16. Delete Partai
+![delete partai](https://github.com/azkanaon/TP3DPBO2023C2/assets/90915678/a1ce84fb-b745-4adb-bf80-6c660748952f)
+
+
+
+
+
+
+
+
+
+
 
